@@ -1,6 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://rahul204:r@ni45Rahul@devconnector.b0q2c.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "secret":"mysecret",
-    "githubclientid":"80a33c5ad888938a337d",
-    "githubsecret":"ec709e812a6943e67ce67d8e105fdd329e0da315"
-}
